@@ -1,0 +1,64 @@
+{
+  "interface": {
+    "post": "Post",
+    "all_post": "List",
+    "map": "Map",
+    "profile": "Profile",
+    "post_overview": "Post Overview",
+    "location": "Location on map"
+
+  },
+  "profile": {
+    "lang": "Language",
+    "en": "English",
+    "sk": "Slovakian",
+    "uk": "Ukraine",
+    "log_out": "Log Out"
+  },
+  "map": {
+
+  },
+  "post": {
+    "topic": "Title",
+    "description": "Description",
+    "add_photo": "Add a photo",
+    "upload_problem_photo": "Upload or take a photo of a problem",
+    "take_photo": "Take photo",
+    "choose_from_library": "Choose from library",
+    "cancel_photo": "Cancel",
+    "att_image": "Attach image",
+    "choose_responsible": "Choose responsible company",
+    "latitude":"latitude",
+    "longitude":"longitude",
+    "place_coordinates": "Mark the coordinates of the place",
+    "no_camera": "No camera error",
+    "no_camera_description": "Your mobile phone physically does not have a camera!",
+    "camera_error": "Camera's problem occurred",
+    "camera_error_description": "You didn't give a permission or other problem.",
+    "post": "Post",
+    "zelene": "Administration of urban greenery in Kosice",
+    "dopravny_podnik": "Transport company of the city of Košice, a.s.",
+    "lesy": "Košice city forests",
+    "spp": "SPP",
+    "vodarenska": "East Slovak water company",
+    "dontknow": "Don't know"
+  },
+  "post_overview": {
+    "author": "Author",
+    "date": "Date",
+    "category": "Category",
+    "send_comp": "Send complain",
+    "choose": "Choose one of the following complains:",
+    "spam": "Spam or Fake content",
+    "aggressive": "Aggressive actions or intimidation",
+    "sexual": "Sexual content",
+    "violation": "Violation of my rights",
+    "hateful": "Hateful and offensive content"
+  },
+  "authorization": {
+    "auth": "Authorization",
+    "welcome": "Welcome to CityDesk",
+    "login": "Log In"
+  }
+
+}

@@ -1,0 +1,64 @@
+{
+  "interface": {
+    "post": "Príspevok",
+    "all_post": "Zoznam",
+    "map": "Mapa",
+    "profile": "Profil",
+    "post_overview": "Prehľad príspevku",
+    "location": "Poloha na mape"
+
+  },
+  "profile": {
+    "lang": "Jazyk",
+    "en": "Angličtina",
+    "sk": "Slovenčina",
+    "uk": "Ukrajinský",
+    "log_out": "Východ"
+  },
+  "map": {
+
+  },
+  "post": {
+    "topic": "Názov",
+    "description": "Popis",
+    "add_photo": "Pridať foto",
+    "upload_problem_photo": "Nahrajte alebo urobte foto poruchy",
+    "take_photo": "Urobiť foto",
+    "choose_from_library": "Vybrať z galérie",
+    "cancel_photo": "Zrušiť",
+    "att_image": "Pridajte obrázok",
+    "choose_responsible": "Vyberte zodpovedneho",
+    "latitude":"šírka",
+    "longitude":"dĺžka",
+    "place_coordinates": "Označte koordináty miesta",
+    "no_camera": "Chyba: nemáte kameru",
+    "no_camera_description": "Vás telefón fyzicky nemá kameru!",
+    "camera_error": "Vyskytol sa problém s kamerou",
+    "camera_error_description": "Nedali ste povolenie pre použitie kamery alebo iný problém.",
+    "post": "Poslať",
+    "zelene": "Správa mestskej zelene v Košiciach",
+    "dopravny_podnik": "Dopravný podnik mesta Košice, a.s.",
+    "lesy": "Mestské lesy Košice, a.s.",
+    "spp": "SPP",
+    "vodarenska": "Východoslovenská vodárenská spoločnosť, a.s.",
+    "dontknow": "Ja neviem"
+  },
+  "post_overview": {
+    "author": "Autor",
+    "date": "Dátum",
+    "category": "Kategória",
+    "send_comp": "Odoslať sťažnosť",
+    "choose": "Vyberte si jednu z nasledujúcich sťažností:",
+    "spam": "Spam alebo falošný obsah",
+    "aggressive": "Agresívne akcie alebo zastrašovanie",
+    "sexual": "Sexuálny obsah",
+    "violation": "Porušenie mojich práv",
+    "hateful": "Nenávistný a urážlivý obsah"
+  },
+  "authorization": {
+    "auth": "Autorizácia",
+    "welcome": "Vitajte v CityDesk",
+    "login": "Prihláste sa"
+  }
+
+}
