@@ -1,13 +1,14 @@
 # City Desk
-Application for notification of failures or breakdowns in the city. We want to make city better and more comfortable for all it's owners.
+Application for notification of failures or breakdowns in the city. We want to make city better and more comfortable for all it's owners. <a href="https://devpost.com/software/citydesk" target="_blank">Devpost link</a>
 
 <p float="left">
-  <img src="https://github.com/Dmytro27Ind/images/blob/main/city-desk-1.jpg" width="150" />
-  <img src="https://github.com/Dmytro27Ind/images/blob/main/city-desk-2.jpg" width="150" />
-  <img src="https://github.com/Dmytro27Ind/images/blob/main/city-desk-3.jpg" width="150" />
-  <img src="https://github.com/Dmytro27Ind/images/blob/main/city-desk-4.jpg" width="150" />
+  <img src="https://github.com/Dmytro27Ind/images/blob/main/city-desk-1.jpg" width="200" />
+  <img src="https://github.com/Dmytro27Ind/images/blob/main/city-desk-2.jpg" width="200" />
+  <img src="https://github.com/Dmytro27Ind/images/blob/main/city-desk-3.jpg" width="200" />
+  <img src="https://github.com/Dmytro27Ind/images/blob/main/city-desk-4.jpg" width="200" />
 </p>
 
+## Video
 <a href="https://www.youtube.com/watch?v=yM8RzpkCWg4" target="_blank">![Watch the video](https://github.com/Dmytro27Ind/images/blob/main/city-desk_video_screen.PNG)</a>
 
 ## What it does
